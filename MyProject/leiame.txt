@@ -1,0 +1,10 @@
+# GitHub
+
+O GitHub é um programa voltada para programação e desenvolvimento de códigos colaborativo.
+Dentro do GitHub,podemos contruir repositorios baseados nos fluxos de tabalho e torná-los públicos ou privados.
+É uma plataforma que possibilita a extensão de trabalho, podendo ser feito trabalhos em conjuntos de forma separada podendo se unificar depois.
+Também é uma biblioteca moderna de JavaScript.
+Aréa com modelos de extensões podendo ser utilizadas para a criação de códigos.
+
+git config --global user.name "Kamilly Alessandra Oliveira da Silva"
+git config --global user.email kamilli.alessandra11@gmail.com
