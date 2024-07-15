@@ -1,0 +1,3 @@
+# Desenvolvendo um conversor de temperatura!
+# Preciso de um programa que faça a conversão da temperatura, em diferentes unidades de medida...
+
