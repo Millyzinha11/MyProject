@@ -14,7 +14,7 @@ print("7. Sabado")
 semana = input()
 
 match semana:
-    case "domingo":
+    case "Domingo":
         print("Dia perfeito para descansar e recarregar as energias para a próxima semana")
     case "Segunda-feira":
         print("Dia de luta e não de glória")
