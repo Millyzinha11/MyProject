@@ -1,6 +1,6 @@
 # Demonstração... Atividade 1
 # Construa um programa onde o usuário digitará o dia de semana. De acordo com a sua resposta, 
-# o programa deverá exibir na tela uma recomendação do que ele pode poderia fazer neste dia.
+# o programa deverá exibir na tela uma recomendação do que ele poderia fazer neste dia.
 # Se ele não digitar absolutamente, nada, o programa exibirá um alerta.
 
 print("Digite o dia da semana")
