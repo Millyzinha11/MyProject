@@ -18,6 +18,7 @@ else:
     
 print("Obrigado por optar pelos nossos serviços!")
 ####################################################################
+
 nota1 = float(input("Digite a nota do primeiro trimestre: "))
 nota2 = float(input("Digite a nota do segundo trimestre: "))
 nota3 = float(input("Digite a nota do terceiro trimestre: "))
@@ -30,3 +31,5 @@ if media >= 6:
 else:
     print("Aluno Reprovado")
 
+print(f"Sua média é {media}.")
+print(type(media))
