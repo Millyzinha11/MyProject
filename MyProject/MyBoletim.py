@@ -13,13 +13,11 @@ if media < 4:
     print("Aluno Reprovado")
 elif media >= 4 and media < 6:
     print("Aluno em recuperação")
+    nota_recuperacao = float(input("Digite a nota da recuperação: "))
+    if nota_recuperacao < 5:
+        print("Reprovado na recuperação")
+    else:
+        print("Aprovação na recuperação")
 
-notaderecuperação = float(input("Digite a nota da recuperação:"))
-
-if media < 5:
-    print("Reprovado na recuperação")
 else:
-    print("Aprovado na recuperação")
-elif:
-media >= 6:
-    print("Aluno Aprovado")
+    print("Aluno aprovado")
