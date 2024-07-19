@@ -18,6 +18,5 @@ elif media >= 4 and media < 6:
         print("Reprovado na recuperação")
     else:
         print("Aprovação na recuperação")
-
 else:
     print("Aluno aprovado")
