@@ -6,13 +6,14 @@ time = input(("Digite o nome time:"))
 posição = int(input("Digite a posição do time na tabela de classificação: "))
 
 if posição == 1 :
-    print(f"{time} Campeão!")
-elif posição <= 6:
-    print(f"{time} Libertadores!")
-elif posição <= 12:
-    print(f"{time} Sul-Americana!")
-elif posição >= 13:
-    print(f"{time} Rebaixado!")
+    print("Campeão!")
+elif posição >1 and posição <= 6:
+    print("Libertadores!")
+elif posição >6 and posição <= 12:
+    print("Sul-Americana!")
+elif posição >= 12 and posição <= 16:
+    print("Sem classificação")
+elif posição >= 17 and posição <= 20:
+   print("Rebaixado...")
 else:
- print(f"{time} está em {posição}º lugar.")
-        
+ print("Digite a posição correta!")
