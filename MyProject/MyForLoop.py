@@ -1,4 +1,4 @@
-# Demonstração do uso de for / range...
+# Demonstrando..
 print("digite o valor máximo desejado:")
 numero = int(input())
 
